@@ -1,0 +1,23 @@
+{
+  "name": "fiverr-order",
+  "version": "1.0.0",
+  "description": "unknown game calculator",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.3.0",
+    "canvas": "^2.11.2",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.16.0",
+    "luxon": "^3.3.0",
+    "quick.db": "^7.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mp3"
+  ],
+  "author": "DiscordCookie on Fiverr",
+  "license": "MIT"
+}

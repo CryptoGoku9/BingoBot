@@ -1,0 +1,90 @@
+{
+    "token": "MTA2MzQ1NTM0Njg2MzEyNDU1MQ.Gon3j7.dSXbwtTQyz9U8vfoGod-VACgun36pZdKRgGDIs",
+    "prefix": "!",
+    "activity": "Getting the balls rolling",
+    "developers": ["353637377081737238", "709405124807884852"],
+    "globalSlashCommands": true,
+    "slashCommandServerID": false,
+
+    "rollInterval": 6,
+    "tokenName": " BUCKS <:bbeno:1071015245239308288>",
+    "mainServerID": "952620950082433054",
+
+    
+    "bucks": {
+        "win": 10,
+        "participate": 5,
+        "roles": [
+            {
+                "roleID": "1153048881106522233",
+                "balance": 0
+            },
+            {
+                "roleID": "1153049199059943464",
+                "balance": 1000
+            },
+            {
+                "roleID": "1153049583333691472",
+                "balance": 5000
+            },
+            {
+                "roleID": "1153049912007725096",
+                "balance": 20000
+            },
+            {
+                "roleID": "1153050916782620733",
+                "balance": 50000
+            }
+        ]
+    },
+
+    "xp": {
+        "participate": 1,
+        "win": 10,
+        "roles": [
+            {
+                "roleID": "1153042167149908018",
+                "xp": 50
+            },
+            {
+                "roleID": "1153043756149387365",
+                "xp": 500
+            },
+            {
+                "roleID": "1153044384640663613",
+                "xp": 1000
+            },
+            {
+                "roleID": "1153044804310139042",
+                "xp": 1750
+            },
+            {
+                "roleID": "1153045196779569172",
+                "xp": 5000
+            }
+        ]
+    },
+    
+    "winRoles": [
+        {
+            "roleID": "1153046181363073034",
+            "wins": 1
+        },
+        {
+            "roleID": "1153046718590505021",
+            "balance": 15
+        },
+        {
+            "roleID": "1153047204693553232",
+            "balance": 100
+        },
+        {
+            "roleID": "1153047692583383089",
+            "balance": 250
+        },
+        {
+            "roleID": "1153047995793801276",
+            "balance": 500
+        }
+    ]
+}
